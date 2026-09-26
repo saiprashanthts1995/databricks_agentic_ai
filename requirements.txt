@@ -6,7 +6,8 @@ certifi==2026.7.22
 cffi==2.1.1
 claude-agent-sdk==0.2.136
 click==8.4.2
-cryptography==50.0.0
+cryptography==50.
+0.0
 distro==1.9.0
 docstring_parser==0.18.0
 h11==0.16.0
