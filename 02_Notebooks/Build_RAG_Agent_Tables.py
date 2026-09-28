@@ -1,4 +1,9 @@
 # Databricks notebook source
+# /// script
+# [tool.databricks.environment]
+# base_environment = "databricks_ai_v5"
+# environment_version = "5"
+# ///
 # MAGIC %md
 # MAGIC # Build RAG Agent Tables
 # MAGIC
